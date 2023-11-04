@@ -1,9 +1,9 @@
 # java-interface-example
 In this exercise you will create a hierarchy of animals that is rooted in an abstract class Animal. Several of the animal classes will implement an interface called Pet. You will experiment with variations of these animals, their methods, and polymorphism.
 
- Directions:
+##  Directions:
 
-•	Create the Animal class, which is the abstract superclass of all animals.
+Create the Animal class, which is the abstract superclass of all animals.
 1.	Declare a protected integer attribute called legs, which records the number of legs for this animal. 
 2.	Define a protected constructor that initializes the legs attribute. 
 3.	Declare an abstract method eat.
